@@ -36,5 +36,6 @@ J’ai également utilisé quelques scripts simples dans Postman pour vérifier 
 - PUT /posts/1 → 200 OK
 - DELETE /posts/1 → 200 OK.
 
-
+ Outil utilisé
+ 
 - Postman
