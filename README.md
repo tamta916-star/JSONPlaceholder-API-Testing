@@ -36,14 +36,5 @@ J’ai également utilisé quelques scripts simples dans Postman pour vérifier 
 - PUT /posts/1 → 200 OK
 - DELETE /posts/1 → 200 OK.
 
- About the project
-
-In this project, I performed API testing using Postman and the JSONPlaceholder API.
-
-The goal was to practice the main HTTP methods, check API responses, and verify status codes.
-
-I tested GET, POST, PUT, and DELETE requests.
-
-## Outil utilisé
 
 - Postman
